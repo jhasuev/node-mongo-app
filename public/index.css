@@ -1,0 +1,24 @@
+.nav-wrapper {
+  padding: 0 15px;
+}
+.todo {
+  margin-bottom: 10px;
+}
+
+.todo__inner {
+  display: flex;
+  align-items: center;
+
+  background-color: #F1F1F1;
+  padding: 15px;
+}
+
+
+.todo button {
+  margin-left: auto;
+}
+
+
+.completed {
+  text-decoration: line-through;
+}
